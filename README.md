@@ -20,7 +20,7 @@ I am currently working on adding hands-on QA projects to my GitHub. Stay tuned f
 
  📫 Connect with Me
 Feel free to reach out or collaborate on QA-related projects!
-- GitHub: [https://chatgpt.com/c/67c1fc6d-5f84-8006-b7b2-7c35ef63cfee)
+- GitHub: https://github.com/GeorgiAndonov89
 
 
 Let's ensure quality together! 🚀
